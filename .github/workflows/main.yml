@@ -1,7 +1,7 @@
 name: Hello World Training Workflow
 
 on:
-  push: :
+  push: 
 
 jobs:
   greet:
